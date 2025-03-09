@@ -1,6 +1,6 @@
 public class Demo{
 
-	public static doProcess(){
+	public static void doProcess(){
 		// do code here
 	}
 }
